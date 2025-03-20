@@ -8,11 +8,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/serverleader/shoutrrr"
 	"github.com/pocketbase/dbx"
 	"github.com/pocketbase/pocketbase/apis"
 	"github.com/pocketbase/pocketbase/core"
 	"github.com/pocketbase/pocketbase/tools/mailer"
+	"github.com/serverleader/shoutrrr"
 )
 
 type AlertManager struct {
