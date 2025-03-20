@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/containrrr/shoutrrr"
+	"github.com/serverleader/shoutrrr"
 	"github.com/pocketbase/dbx"
 	"github.com/pocketbase/pocketbase/apis"
 	"github.com/pocketbase/pocketbase/core"
